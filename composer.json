@@ -1,0 +1,11 @@
+{
+    "name": "gpassali/php-backend",
+    "description": "A minimal PHP backend for angular applications",
+    "require": {
+        "php": ">=8.0"
+    },
+    "license": [
+        "LGPL-2.1-only",
+        "GPL-3.0-or-later"
+    ]
+}
